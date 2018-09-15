@@ -1,5 +1,3 @@
-#Exemplo sobre: "echo" 
-
 #!/bin/bash
 
 echo -e "\n"
