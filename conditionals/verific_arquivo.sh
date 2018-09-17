@@ -1,3 +1,5 @@
+#Script que verifica a existência de um arquivo no home
+
 #!/bin/bash
 
 echo "Nome do arquivo que deseja buscar:"
