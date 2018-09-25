@@ -1,6 +1,6 @@
 #!/bin/bash
 
-data=$(date "+%d.%m.%Y.%H.%S")
+data=$(date "+%d.%m.%Y_%H.%S")
 
 echo ${data}
 
