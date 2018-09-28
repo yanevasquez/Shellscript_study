@@ -1,11 +1,11 @@
+#!/bin/bash
+
 #a)Escreva um script shell que receba 10 argumentos de linha de comando e imprima-os na tela na ordem reversa.
 
 #b)Melhore o script para que imprima 2 argumentos por linha, separados por uma tabulação.
 
 #c)Melhore o script para que imprima, antes de cada argumento, o nome da variável correspondente no shell (com $)
 
-
-#!/bin/bash
 
 #a)
 #echo "${10} ${9} ${8} ${7} ${6} ${5} ${4} ${3} ${2} ${1}"
