@@ -4,7 +4,7 @@ echo -e " *** Este script realiza um backup dos arquivos da pasta atual:"
 ls -1
 
 DATA="$(date +%d.%m.%y.%H.%M)"
-PASTA="/home/yane/documentos $DATA"
+PASTA="/tmp/backup/$DATA"
 
 echo -e " *** Criando a pasta temporária ${PASTA}..."
 mkdir -p ${PASTA} 2> /dev/null
