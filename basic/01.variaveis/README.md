@@ -72,3 +72,6 @@ Crie um script que forneça infomações do sistema, sobre:
  * Quantidade de espaço em disco;
  * Quantidade de memória;
  * Quantidade de arquivos do usuário corrente. 
+
+> [resposta](https://github.com/yanelisset/testeds/blob/master/systinfo.sh)
+
