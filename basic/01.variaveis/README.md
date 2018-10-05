@@ -66,7 +66,7 @@ Como fazer para que, usando as variáveis 'a' e 'aa', o script imprima 'BrasilaB
 
 ### Ex05 / systinfo.sh : 
 
-Crie um script que forneça infomações do sistema, sobre: 
+Crie um script que forneça infomações do sistema:
  * Usuários conectados;
  * Total de arquivos no diretório atual;
  * Quantidade de espaço em disco;
