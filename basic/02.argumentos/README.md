@@ -19,17 +19,18 @@ echo 'o valor de $b é $b'
 echo "o valor de "'$b'" é $b"
 
 ```
-> ###### [resposta](https://github.com/yanevasquez/Shellscript_study/blob/master/basic/02.argumentos/ex1.sh)
+> ######  [resposta](https://github.com/yanevasquez/Shellscript_study/blob/master/basic/02.argumentos/ex1.sh)
 
 ### Ex02:
 
-Escreva um script shell que receba 10 argumentos de linha de comando e imprima-os na tela na ordem reversa.
+a) Escreva um script shell que receba 10 argumentos de linha de comando e imprima-os na tela na ordem reversa.
 
-Melhore o script para que imprima 2 argumentos por linha, separados por uma tabulação
+b) Melhore o script para que imprima 2 argumentos por linha, separados por uma tabulação
 
-Melhore o script para que imprima, antes de cada argumento, o nome da variável correspondente no shell (com $)
+c) Melhore o script para que imprima, antes de cada argumento, o nome da variável correspondente no shell (com $)
 
-> ###### [resposta](https://github.com/yanevasquez/Shellscript_study/blob/master/basic/02.argumentos/ex2.sh)
+>###### respostas: [02a](https://github.com/yanevasquez/Shellscript_study/blob/master/basic/02.argumentos/ex2a.sh), [02b](https://github.com/yanevasquez/Shellscript_study/blob/master/basic/02.argumentos/ex2b.sh), [02c](https://github.com/yanevasquez/Shellscript_study/blob/master/basic/02.argumentos/ex2c.sh)
+
 
 ### Ex03:
 
