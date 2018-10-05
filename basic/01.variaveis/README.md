@@ -13,14 +13,14 @@ c=$a$b
 d=$a$b$c
 echo ${d}
 ```
-> [resposta](https://github.com/yanelisset/testeds/blob/master/ex1.sh)
+> [resposta](https://github.com/yanevasquez/Shellscript_study/blob/master/basic/01.variaveis/ex1.sh)
 ### Ex02:
 
  Escreva um script shell que leia 3 nomes e 3 telefones e imprima-os na tela.
 
  Melhore o script para que imprima primeiro os 3 telefones e depois os 3 nomes.
 
-> [resposta](https://github.com/yanelisset/testeds/blob/master/ex2.sh)
+> [resposta](https://github.com/yanevasquez/Shellscript_study/blob/master/basic/01.variaveis/ex2.sh)
 
 ### Ex03:
 
@@ -39,7 +39,7 @@ O que é impresso na tela após a execução do script teste.sh da seguinte form
 ```
 Como corrigir o script para que os argumentos de linha de comando 12 e 13 sejam exibidos corretamente?
 
-> [resposta](https://github.com/yanelisset/testeds/blob/master/ex3.sh)
+> [resposta](https://github.com/yanevasquez/Shellscript_study/blob/master/basic/01.variaveis/ex3.sh)
 
 ### Ex04:
 Considere o script teste.sh descrito abaixo.
@@ -61,7 +61,7 @@ Como fazer para que, usando as variáveis 'a' e 'aa', o script imprima 'BrasilBr
 
 Como fazer para que, usando as variáveis 'a' e 'aa', o script imprima 'BrasilaBrasileiroa' (sem espaços) na tela?
 
-> [resposta](https://github.com/yanelisset/testeds/blob/master/ex4.sh)
+> [resposta](https://github.com/yanevasquez/Shellscript_study/blob/master/basic/01.variaveis/ex1.sh)
 
 
 ### Ex05 / systinfo.sh : 
@@ -73,5 +73,5 @@ Crie um script que forneça infomações do sistema, sobre:
  * Quantidade de memória;
  * Quantidade de arquivos do usuário corrente. 
 
-> [resposta](https://github.com/yanelisset/testeds/blob/master/systinfo.sh)
+> [resposta](https://github.com/yanevasquez/Shellscript_study/blob/master/basic/01.variaveis/systinfo.sh)
 
