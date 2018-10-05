@@ -61,7 +61,7 @@ Como fazer para que, usando as variáveis 'a' e 'aa', o script imprima 'BrasilBr
 
 Como fazer para que, usando as variáveis 'a' e 'aa', o script imprima 'BrasilaBrasileiroa' (sem espaços) na tela?
 
-> [resposta](https://github.com/yanevasquez/Shellscript_study/blob/master/basic/01.variaveis/ex1.sh)
+> [resposta](https://github.com/yanevasquez/Shellscript_study/blob/master/basic/01.variaveis/ex4.sh)
 
 
 ### Ex05 / systinfo.sh : 
