@@ -1,8 +1,6 @@
-#Exemplo sobre: variáveis
+#!/bin/bash
 
 #./exer.sh A1 A2 A3
-
-#!/bin/bash
 
 echo -e '$*='$*
 B=$(whoami)
