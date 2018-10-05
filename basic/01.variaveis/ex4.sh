@@ -1,8 +1,5 @@
 #!/bin/bash
 
-#Como fazer para que, usando as variáveis 'a' e 'aa', o script imprima 'BrasilBrasileiro' (sem espaços) na tela?
-#Como fazer para que, usando as variáveis 'a' e 'aa', o script imprima 'BrasilaBrasileiroa' (sem espaços) na tela?
-
 a="Brasil"
 aa="Brasileiro"
 aaa="Brasileirissimo"
