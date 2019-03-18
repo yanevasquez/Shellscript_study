@@ -1,5 +1,4 @@
 #!/bin/bash
-
 #								                               
 # Nome do script: separador.sh 					
 #
@@ -26,5 +25,7 @@ cont=$(wc -l < $i)
 (($cont < 4)) && echo "Movendo o arquivo '$i' para diretório small" && mv $i $dir2;
 
 done
+
+
 
 

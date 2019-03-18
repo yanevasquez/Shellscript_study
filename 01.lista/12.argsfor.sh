@@ -1,5 +1,4 @@
 #!/bin/bash
-
 #								                               
 # Nome do script: argsfor.sh 					
 #

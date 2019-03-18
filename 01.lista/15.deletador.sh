@@ -1,5 +1,4 @@
 #!/bin/bash
-
 #								                               
 # Nome do script: deletador.sh 					
 #
@@ -25,4 +24,6 @@ for i in $*; do
 		echo $i >> erros.log  
 	fi
 done
+
+
 

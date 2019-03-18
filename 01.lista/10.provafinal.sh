@@ -1,5 +1,4 @@
 #!/bin/bash
-
 #								                               
 # Nome do script: provafinal.sh 					
 #
@@ -21,6 +20,11 @@ echo "Média: $media"
 
 nf=$(echo " scale =2; (5 - (0.6 * $media)) / 0.4" | bc)
 echo "Você precisa de $nf para a prova final"
+
+
+
+
+
 
 
 

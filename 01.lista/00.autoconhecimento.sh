@@ -1,5 +1,4 @@
 #!/bin/bash
-
 #								                               
 # Nome do script: autoconhecimento.sh 					
 #
@@ -25,3 +24,9 @@ echo "O PID do processo pai do script é: ${PPID}"
 echo "Shell padrão do usuário: ${SHELL}"
 echo "O caminho completo dos executáveis do sistema: ${PATH}"
 echo "O tempo de execução desse script foi de ${SECONDS}${PPID}$$ segundos"
+
+
+
+
+
+

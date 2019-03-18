@@ -1,5 +1,4 @@
 #!/bin/bash 
-
 #								                               
 # Nome do script: criarArqsfor.sh 					
 #
@@ -15,4 +14,6 @@ for (( i=1 ; i<101; i++))
 do 
 	echo $i >> arquivo.txt
 done
+
+
 

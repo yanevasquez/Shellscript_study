@@ -1,5 +1,4 @@
 #!/bin/bash
-
 #								                               
 # Nome do script: supertouch.sh 					
 #
@@ -15,4 +14,7 @@
 #
 
 mkdir -p ./$1
+
+
+
 

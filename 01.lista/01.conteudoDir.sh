@@ -1,5 +1,4 @@
 #!/bin/bash
-	     		      	      
 #								                               
 # Nome do script: conteudoDir.sh  					
 #    	      						       
@@ -21,3 +20,9 @@ ls -1 2> /dev/null ${d1} > lista.txt
 ls -1 2> /dev/null ${d2} >> lista.txt 
 ls -1 2> /dev/null ${d3} >> lista.txt 
 ls -1 2> /dev/null ${d4} >> lista.txt 
+
+
+
+
+
+

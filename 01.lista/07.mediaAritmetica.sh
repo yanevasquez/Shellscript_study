@@ -1,5 +1,4 @@
 #!/bin/bash
-
 #								                               
 # Nome do script: mediaAritmetica.sh 					
 #
@@ -20,5 +19,11 @@ media=$(echo "${soma}/3" | bc)
 echo "$media"
 
 (($media>=70)) && echo "aprovado" || echo "reprovado" 
+
+
+
+
+
+
 
 

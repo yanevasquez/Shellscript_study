@@ -1,5 +1,4 @@
 #!/bin/bash
-
 #								                               
 # Nome do script: wcArgs.sh  					
 #    	      						       
@@ -22,3 +21,6 @@ f=$(ls $6 2> /dev/null | wc -l)
 soma=$(( a + b + c + d + e + f ))
 echo "Qtd de arquivos que existe: $soma" 
 echo "Qtd de arquivos que não existem: $(($# - ${soma}))"
+
+
+

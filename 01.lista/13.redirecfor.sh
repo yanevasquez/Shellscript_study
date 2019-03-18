@@ -1,5 +1,4 @@
 #!/bin/bash
-
 #								                               
 # Nome do script: redirecfor.sh 					
 #
@@ -26,3 +25,6 @@ for i in *.a *.b *.c;
 do  
 	echo "$i" >>  resumo.d
 done
+
+
+

@@ -1,5 +1,4 @@
 #!/bin/bash 
-
 #								                               
 # Nome do script: wclines.sh 					
 #
@@ -23,5 +22,10 @@ echo "Total linhas arq2: $b"
 soma=$(( ${a} + ${b} ))
 perc=$(echo "scale=3; $a/${soma}*100 + $b/${soma}*100" | bc )
 echo "$perc %"
+
+
+
+
+
   
 
