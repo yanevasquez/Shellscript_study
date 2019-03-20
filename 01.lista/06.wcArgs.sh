@@ -1,5 +1,5 @@
 #!/bin/bash
-#								                               
+								                               
 # Nome do script: wcArgs.sh  					
 #    	      						       
 # Descrição:  	  Escreva um script que recebe 6 nomes de arquivo como argumentos 

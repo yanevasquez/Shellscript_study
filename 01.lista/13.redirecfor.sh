@@ -1,5 +1,5 @@
 #!/bin/bash
-#								                               
+							                               
 # Nome do script: redirecfor.sh 					
 #
 # Descrição:   Escreva um script que crie 100 arquivos diferentes 

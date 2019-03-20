@@ -1,5 +1,5 @@
 #!/bin/bash
-#								                               
+								                               
 # Nome do script: argsfor.sh 					
 #
 # Descrição:   Melhore o script criarArqsfor.sh para que receba nomes 

@@ -1,5 +1,5 @@
 #!/bin/bash
-#								                               
+								                               
 # Nome do script: erroDir.sh  					
 #
 # Descrição:       Melhore o script conteudoDir.sh para que exiba um erro e saia 

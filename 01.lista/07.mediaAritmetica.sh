@@ -1,5 +1,5 @@
 #!/bin/bash
-#								                               
+							                               
 # Nome do script: mediaAritmetica.sh 					
 #
 # Descrição:   Escreva um script que, dada uma nota (entre 0 e 100) 

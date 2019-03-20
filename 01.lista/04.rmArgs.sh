@@ -1,5 +1,5 @@
 #!/bin/bash
-#								                               
+								                               
 # Nome do script: rmArqs.sh  					
 #
 # Descrição:   Escreva um script que receba dois nomes de arquivos como argumentos

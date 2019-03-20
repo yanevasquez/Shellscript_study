@@ -1,5 +1,5 @@
 #!/bin/bash
-#								                               
+							                               
 # Nome do script: separador.sh 					
 #
 # Descrição:   Escreva um script chamado separador.sh. Este deve mover 

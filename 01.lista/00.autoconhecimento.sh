@@ -1,4 +1,5 @@
 #!/bin/bash
+
 #								                               
 # Nome do script: autoconhecimento.sh 					
 #

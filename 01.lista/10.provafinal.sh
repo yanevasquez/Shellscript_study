@@ -1,5 +1,5 @@
 #!/bin/bash
-#								                               
+								                               
 # Nome do script: provafinal.sh 					
 #
 # Descrição:   Escreva um script que solicite 3 notas e indique qual a média 

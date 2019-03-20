@@ -1,5 +1,5 @@
 #!/bin/bash
-#								                               
+								                               
 # Nome do script: conteudoDir.sh  					
 #    	      						       
 # Descrição:  	  Escreva um script que pergunte 4 nomes de diretórios ao usuário 

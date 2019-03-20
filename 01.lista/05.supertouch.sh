@@ -1,5 +1,5 @@
 #!/bin/bash
-#								                               
+							                               
 # Nome do script: supertouch.sh 					
 #
 # Descrição:   Escreva um script chamado supertouch.sh que recebe um nome de 

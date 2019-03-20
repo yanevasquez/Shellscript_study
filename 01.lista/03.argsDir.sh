@@ -1,5 +1,5 @@
 #!/bin/bash
-#								                               
+								                               
 # Nome do script: argsDir.sh  					
 #
 # Descrição:   Altere o script erroDir.sh de modo que este receba os 

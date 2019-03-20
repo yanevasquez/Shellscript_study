@@ -1,5 +1,5 @@
 #!/bin/bash
-#								                               
+							                               
 # Nome do script: deletador.sh 					
 #
 # Descrição:   Escreva um script chamado deletador.sh. Este deve receber uma lista 

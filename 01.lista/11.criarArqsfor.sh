@@ -1,5 +1,5 @@
 #!/bin/bash 
-#								                               
+							                               
 # Nome do script: criarArqsfor.sh 					
 #
 # Descrição:   Crie um script que crie um novo arquivo contendo 100 linhas. 

@@ -1,5 +1,5 @@
 #!/bin/bash
-#								                               
+								                               
 # Nome do script: bcFloat.sh 					
 #
 # Descrição:   Escreva um script que receba 5 números (possivelmente com casas 

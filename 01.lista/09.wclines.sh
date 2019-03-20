@@ -1,5 +1,5 @@
 #!/bin/bash 
-#								                               
+							                               
 # Nome do script: wclines.sh 					
 #
 # Descrição:   Escreva um script que receba 5 nomes de arquivos, 
