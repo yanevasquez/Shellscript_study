@@ -19,7 +19,7 @@ echo 'o valor de $b é $b'
 echo "o valor de "'$b'" é $b"
 
 ```
-> ######  [resposta](https://github.com/yanevasquez/Shellscript_study/blob/master/basic/02.argumentos/ex1.sh)
+> ######  [resposta](https://github.com/yanevasquez/Shellscript_study/blob/master/00.scripts_basicos/02.argumentos/ex1.sh)
 
 ### Ex02:
 
@@ -29,7 +29,7 @@ b) Melhore o script para que imprima 2 argumentos por linha, separados por uma t
 
 c) Melhore o script para que imprima, antes de cada argumento, o nome da variável correspondente no shell (com $)
 
->###### respostas: [02a](https://github.com/yanevasquez/Shellscript_study/blob/master/basic/02.argumentos/ex2a.sh), [02b](https://github.com/yanevasquez/Shellscript_study/blob/master/basic/02.argumentos/ex2b.sh), [02c](https://github.com/yanevasquez/Shellscript_study/blob/master/basic/02.argumentos/ex2c.sh)
+>###### respostas: [02a](https://github.com/yanevasquez/Shellscript_study/blob/master/00.scripts_basicos/02.argumentos/ex2a.sh), [02b](https://github.com/yanevasquez/Shellscript_study/blob/master/00.scripts_basicos/02.argumentos/ex2b.sh), [02c](https://github.com/yanevasquez/Shellscript_study/blob/master/00.scripts_basicos/02.argumentos/ex2c.sh)
 
 
 ### Ex03:
@@ -56,5 +56,5 @@ O que é impresso na tela após a execução do script teste.sh da seguinte form
 ./teste.sh arg1 arg2 arg3 arg4
 ```
 
-> ###### [resposta](https://github.com/yanevasquez/Shellscript_study/blob/master/basic/02.argumentos/ex3.sh)
+> ###### [resposta](https://github.com/yanevasquez/Shellscript_study/blob/master/00.scripts_basicos/02.argumentos/ex3.sh)
 
