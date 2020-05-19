@@ -9,13 +9,13 @@
 #                                                                                              #
 # Autor(a): Yane Lisset B. Vasquez <yanelisset4@gmail.com>    				       #
 #                                  							       #
-# Última atualização: 18/03/2019 							       #
+# Última atualização: 16/05/2020 							       #
 #								       			       #
 ################################################################################################
 
 
 #Função de login na máquina cliente, transferência do script via ssh e execução do backupRemoto.sh
-function loginClient {
+loginClient () {
 
 echo -n "Usuário: "
 read usuario

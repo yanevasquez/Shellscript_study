@@ -9,14 +9,14 @@
 #                                                                                              #
 # Autor(a): Yane Lisset B. Vasquez <yanelisset4@gmail.com>     				       #
 #                                  							       #
-# Última atualização: 18/03/2019 							       #
+# Última atualização: 16/05/2020 							       #
 #								       			       #
 ################################################################################################
 
 
 # Função que faz cópias do home da máquina cliente
 
-function copiaHome {
+copiaHome () {
 	dir="/tmp/backup"
 	mkdir -p ${dir} 2> /dev/null
 	cd /home/
@@ -29,7 +29,7 @@ copiaHome
 
 # Função que copia apenas os diretórios dos usuários logados.
 
-function usersAtivos { 
+usersAtivos () { 
 	loginON=$(who | cut -d " " -f1 | uniq);
 
 	cd /tmp/backup
@@ -44,7 +44,7 @@ done
 
 # Função que compara os diretórios dos usuários logados com os do home e faz a chamada da função "UsersAtivos" caso seja True.
 
-function comparaAtivosHome {
+comparaAtivosHome () {
 
 dir1="/tmp/backup/0.usersON"
 mkdir -p ${dir1} 2> /dev/null
@@ -62,7 +62,7 @@ done
 comparaAtivosHome
 
 # Função que direciona as modificações de cada usuário logado fazendo a cópia para o diretório "changes.usuario"
-function modific {
+modific () {
 
 cd /tmp/backup/0.usersON
 		
@@ -80,7 +80,7 @@ modific
 
 # Função que busca o "changes.usuario" e transfere todas modificações para um diretório com a data do backup
 
-function getMod {
+getMod () {
 DATA="$(date +%d.%m.%y_%H.%M)" 
 dir="/tmp/$DATA.usersModif"  
 		
